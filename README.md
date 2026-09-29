@@ -11,7 +11,7 @@
 | **Nama** | `[ISI NAMA ANDA]` |
 | **NIM** | `[ISI NIM ANDA]` |
 | **Kelas** | `[ISI KELAS ANDA]` |
-| **Mata Kuliah** | Pemrograman Python: Setup Tools |
+| **Mata Kuliah** | Praktikum Pemrograman Modern Python |
 | **Program Studi** | Sistem Informasi |
 
 ---

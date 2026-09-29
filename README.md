@@ -28,6 +28,19 @@ SIM adalah aplikasi berbasis terminal yang memungkinkan pengguna mengelola data 
 
 ---
 
+## Screenshots / Demo
+
+### Menu Utama
+![Menu Utama SIM Mahasiswa](docs/ss_menu.png)
+
+### Tambah Mahasiswa
+![Form Tambah Mahasiswa](docs/ss_tambah.png)
+
+### Tabel Daftar Mahasiswa
+![Tabel Daftar Mahasiswa](docs/ss_tabel.png)
+
+---
+
 ## Fitur
 
 - **Tambah Mahasiswa** — Input data lengkap dengan validasi

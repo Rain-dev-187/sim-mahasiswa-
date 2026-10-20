@@ -8,9 +8,9 @@
 
 | Field | Keterangan |
 |---|---|
-| **Nama** | `[ISI NAMA ANDA]` |
-| **NIM** | `[ISI NIM ANDA]` |
-| **Kelas** | `[ISI KELAS ANDA]` |
+| **Nama** | `AHMAD SAHRUL F` |
+| **NIM** | `20241320031` |
+| **Kelas** | `A1` |
 | **Mata Kuliah** | Praktikum Pemrograman Modern Python |
 | **Program Studi** | Sistem Informasi |
 
